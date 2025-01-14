@@ -2,7 +2,6 @@
 //  ECTournamentDraw.cpp
 //  
 //
-//  Created by Yufeng Wu on 8/4/24.
 //  
 
 
