@@ -2,7 +2,6 @@
 //  ECTournamentDraw.h
 //  
 //
-//  Created by Yufeng Wu on 8/4/24.
 //  About tournament draw in sports
 
 #ifndef ECTournamentDraw_h
